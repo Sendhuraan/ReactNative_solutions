@@ -1,1 +1,1 @@
-## React Native Bare Workflow
+## React Native Bare Workflow.
